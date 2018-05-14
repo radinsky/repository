@@ -28,7 +28,7 @@ pretty easy. Follow [the official instructions][third-party-addons] on the
 website of Home Assistant, and use the following URL:
 
 ```txt
-https://github.com/hassio-addons/repository
+https://github.com/radinsky/repository
 ```
 
 ## Add-ons provided by this repository
