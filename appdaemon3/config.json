@@ -43,5 +43,5 @@
   "environment": {
     "LOG_FORMAT": "{LEVEL}: {MESSAGE}"
   },
-  "image": "radinsky/appdaemon3-armhf"
+  "image": "hassioaddons/appdaemon3-{arch}"
 }
